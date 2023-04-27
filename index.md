@@ -7,3 +7,8 @@
 #
 layout: default
 ---
+hi manasa
+how r u
+im good
+how ur feeling
+how i your kids
